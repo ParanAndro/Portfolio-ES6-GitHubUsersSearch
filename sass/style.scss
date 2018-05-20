@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css?family=Lato');
 $fonts: Lato, sans-serif;
 
@@ -34,4 +35,42 @@ max-width: 500px;
 				}
 		}
 
+=======
+@import url('https://fonts.googleapis.com/css?family=Lato');
+$fonts: Lato, sans-serif;
+
+body {
+font: 100% $fonts;
+margin: 0 auto;
+max-width: 500px;
+	#root {
+		margin-top: 20px;
+			div {
+				background-color: gray;
+				padding-top: 20px;
+			}
+	
+				form {
+					padding: 10px 30px;
+					color: white;
+					border-top: 1px solid white;
+					border-bottom: 1px solid white;
+						input#searchText {
+							margin-left: 40px;
+							width: 200px;
+						} 
+				}
+				div {
+					margin-top: 0;
+				 	div {
+				 		padding: 10px;
+				 		border-bottom: 1px solid white;
+				 			a {
+				 				margin-left: 80px;
+				 			}
+				 	}
+				}
+		}
+
+>>>>>>> 6206c76e863e73bc6d39a3f4fdef0188a76f0bbd
 }

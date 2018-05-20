@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 {
   "presets": ["es2015", "react"]
+=======
+{
+  "presets": ["es2015", "react"]
+>>>>>>> 6206c76e863e73bc6d39a3f4fdef0188a76f0bbd
 }
